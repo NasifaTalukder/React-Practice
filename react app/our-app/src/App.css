@@ -1,0 +1,17 @@
+.myWrapper{
+    width: 450px;
+    height: 430px;
+    background: blueviolet;
+}
+.heading{
+    color: rgb(37, 238, 212);
+    padding-top: 20px;
+    text-align: center;
+}
+.name{
+    text-align: center;
+    color: black;
+}
+.myImage{
+    margin-left: 110px;
+}
